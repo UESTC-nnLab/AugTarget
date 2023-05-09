@@ -66,6 +66,21 @@ If any questions, kindly contact with Shengjia Chen via e-mail: csj_uestc@126.co
 
 
 
+## Citation
+
+If you find this repo useful, please cite our paper. 
+
+```
+@inproceedings{chen2023augtarget,
+  title={AugTarget Data Augmentation for Infrared Small Target Detection},
+  author={Chen, Shengjia and Zhu, Jiewen and Ji, Luping and Pan, Hongjun and Xu, Yuhao},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
+
 
 
 
